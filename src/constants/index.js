@@ -26,8 +26,8 @@ export const navLinks = [
     title: "關於我",
   },
   {
-    id: "work",
-    title: "學習歷程",
+    id: "projects",
+    title: "我的專案",
   },
   {
     id: "contact",
