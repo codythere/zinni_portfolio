@@ -152,7 +152,7 @@ const experiences = [
     company_name: "獨立製作專案",
     icon: "https://test-for-aws-course-only.s3.ap-southeast-2.amazonaws.com/build.png",
     iconBg: "#d0cccb",
-    date: "2023 7月 -  現在",
+    date: "2023 6月 - 2023 8月",
     points: [
       "製作全端(前台、後台)電商平台 Raven Express",
       "以電子支付為主題，設計純前端網站 Moid Bank",
