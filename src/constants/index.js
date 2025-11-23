@@ -15,6 +15,7 @@ import {
   figma,
   nextjs,
   styledComponents,
+  playlistmanager,
   moidbank,
   ravenexpressfront,
   ravenexpressbackend,
@@ -207,23 +208,45 @@ const projects = [
     source_code_link: "https://github.com/ziynnyiy/raven-express-admin",
   },
   {
-    name: "Moid Bank",
+    name: "Playlist Manager",
     description:
-      "一個宣傳電子支付品牌的純前端專案，可以讓使用者快速了解企業的形象和特色，並決定是否要向該公司啟用相關服務。",
+      "協助使用者批次整理 YouTube 播放清單，支援跨清單搬移/刪除/整理，並具 Undo 回滾與 Token Refresh。",
     tags: [
       {
-        name: "reactjs",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "typeScript",
         color: "green-text-gradient",
       },
+      {
+        name: "postgres",
+        color: "pink-text-gradient",
+      },
     ],
-    image: moidbank,
-    showcase_link: "https://moidbank.netlify.app/",
-    source_code_link: "https://github.com/ziynnyiy/project-moidbank",
+    image: playlistmanager,
+    showcase_link: "https://playlist-manager.site",
+    source_code_link: "https://github.com/codythere/playlist-manager",
   },
+  // {
+  //   name: "Moid Bank",
+  //   description:
+  //     "一個宣傳電子支付品牌的純前端專案，可以讓使用者快速了解企業的形象和特色，並決定是否要向該公司啟用相關服務。",
+  //   tags: [
+  //     {
+  //       name: "reactjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "green-text-gradient",
+  //     },
+  //   ],
+  //   image: moidbank,
+  //   showcase_link: "https://moidbank.netlify.app/",
+  //   source_code_link: "https://github.com/ziynnyiy/project-moidbank",
+  // },
 ];
 
 export { services, technologies, experiences, projects };

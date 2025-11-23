@@ -28,6 +28,7 @@ import tripguide from "./tripguide.png";
 import nextjs from "./tech/nextjs.png";
 import nextjs2 from "./tech/nextjs2.svg";
 import styledComponents from "./tech/styledComponents.png";
+import playlistmanager from "./playlistmanager.png";
 import moidbank from "./moidbank.png";
 import ravenexpressfront from "./ravenexpressfront.png";
 import ravenexpressbackend from "./ravenexpressbackend.png";
@@ -62,6 +63,7 @@ export {
   nextjs,
   nextjs2,
   styledComponents,
+  playlistmanager,
   moidbank,
   ravenexpressfront,
   ravenexpressbackend,
