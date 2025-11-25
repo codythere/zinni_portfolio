@@ -27,10 +27,10 @@ const Navbar = () => {
             className="w-9 h-9 object-contain"
           />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            &nbsp; Ziyn &nbsp;
+            &nbsp; Cody &nbsp;
             <span className="sm:block hidden font-medium">
               {" "}
-              |&nbsp; Zinni Lai
+              |&nbsp; Cody Lai
             </span>
           </p>
         </Link>
