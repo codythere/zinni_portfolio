@@ -18,7 +18,7 @@ const Hero = () => {
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
             嗨, 我是 &nbsp;
-            <span className="text-[#915eff] font-semibold">Zinni</span>
+            <span className="text-[#915eff] font-semibold">Cody</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             目前為一名初階軟體工程師， <br className="block" />
